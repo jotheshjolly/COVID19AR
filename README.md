@@ -1,12 +1,26 @@
-# COVID19AR
+#COVID19AR
+  
+#Homescreen:
+Upon opening our app you will be greeted homescreen in which you can select free the differnt menus available.
 
-COVID19 
-people data which is classified and encountered to visualize the data
-for the world and India 
-which in the world the data is segregated based on countries.
-and in India, the data is segregated on states.
+<img src="./images/1.jpg" width="300">
 
-developed by :
+#Statistics in UI:
+In Statistics menu you will be shown the COVID data in UI format and you can further segregated into countries. For India the data in segregated into states.
 
-JOTHESH : https://www.linkedin.com/in/jothesh-jolly/
-MAGESHWARAN : https://www.linkedin.com/in/mageshwaran-r-3837a61a4
+#Statistics in AR:
+By clicking on the world data you can visualize the globe with the COVID data in Augumented Reality. To place the globe scan the environment after decting plane you can place the globe.
+After placing the globe you can move the cursor around globe & countries to visualize the data. 
+
+#COVID shooter game: 
+COVID shooter is AR based game in which you need to shoot the virus to score which relives from strees. 
+ 
+
+<img src="./images/1.jpg" width="300">
+
+
+Developed By :
+
+JOTHESH : https://www.linkedin.com/in/jothesh-j...
+MAGESHWARAN : https://www.linkedin.com/in/mageshwar...
+PRASHANTH : https://www.linkedin.com/in/prashanth-s-1b9a20191/
