@@ -7,6 +7,7 @@ Upon opening our app you will be greeted homescreen in which you can select free
 
 ## Statistics in UI:
 In Statistics menu you will be shown the COVID data in UI format and you can further segregated into countries. For India the data in segregated into states.
+
 ![](images/2.jpeg) ![](images/3.jpeg) ![](images/4.jpeg) 
  
 
@@ -18,7 +19,8 @@ After placing the globe you can move the cursor around globe & countries to visu
 
 
 ## COVID shooter game: 
-COVID shooter is AR based game in which you need to shoot the virus to score which relives from strees. 
+COVID shooter is AR based game in which you need to shoot the virus to score which relives from stress.
+ 
 ![](images/7.jpeg) 
  
 
