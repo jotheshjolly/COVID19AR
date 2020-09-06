@@ -27,5 +27,6 @@ COVID shooter is AR based game in which you need to shoot the virus to score whi
 Developed By :
 
 JOTHESH : https://www.linkedin.com/in/jothesh-j...
+
 MAGESHWARAN : https://www.linkedin.com/in/mageshwar...
 PRASHANTH : https://www.linkedin.com/in/prashanth-s-1b9a20191/
