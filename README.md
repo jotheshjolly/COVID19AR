@@ -1,7 +1,7 @@
 # COVID19AR
   
 ## Homescreen:
-Upon opening our app you will be greeted homescreen in which you can select free the differnt menus available.
+Upon opening our app you will be greeted homescreen in which you can select three the diffrent menus available.
 
  ![](images/1.jpeg) 
 
@@ -32,6 +32,5 @@ Developed By :
 JOTHESH : https://www.linkedin.com/in/jothesh-j...
 
 MAGESHWARAN : https://www.linkedin.com/in/mageshwar...
-
 
 PRASHANTH : https://www.linkedin.com/in/prashanth-s-1b9a20191/
